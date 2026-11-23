@@ -3,6 +3,7 @@ name = "driver"
 version.workspace = true
 edition.workspace = true
 authors.workspace = true
+default-run = "driver"
 
 [dependencies]
 maschine_library.workspace = true
